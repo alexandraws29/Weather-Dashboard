@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    color: white;
+    background-color: #343a40;
+    text-align: center;
+    padding: 5px;
+}
+
+.card-date {
+    color: white;
+    font-weight: bolder;
+}
+
+.btn {
+    color: white;
+    border: none;
+}
+.btn:hover {
+    border: 1px solid #007bff45;
+    background-color: #007bff;
+}
+
+label {
+    font-weight: bolder;
+}
+
+#history {
+    margin: 15px 0;
+}
